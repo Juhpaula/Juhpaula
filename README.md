@@ -2,9 +2,11 @@
 
 <h3 align=center>Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Americana</h3>
 
-<div align=center>
-<a href="https://github.com/Juhpaula">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhpaula&layout=compact&langs_count=7&theme=dracula"/> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Juhpaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/Juhpaula">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Juhpaula&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhpaula&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 <h2 align=center> Estou aprendendo </h2>
