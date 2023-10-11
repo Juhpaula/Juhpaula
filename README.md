@@ -1,6 +1,6 @@
 <h1 >Olá! Tudo bem? Eu sou a Jullia de Paula 👋</h1>
 
-<h4 >Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Americana. Estou no 4º Semestre e muito animada pelo que estou aprendendo.</h4>
+<h4 >Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Americana. Estou no 5º Semestre e muito animada pelo que estou aprendendo.</h4>
 
 <h2>Linguagens e Ferramentas</h2>
 <div > 
